@@ -1,4 +1,4 @@
-# ![SimpleDuino]
+# [SimpleDuino]
 
 Current Version : 1.0.1  
 Licence : [GNU GPL version 3](./license.txt)  
